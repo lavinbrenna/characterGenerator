@@ -21,7 +21,7 @@ _This randomizer is here so that you can get your stat building out of the way. 
 * Clone git repository to local machine
 * Navigate to index.html
 * Open in default browser
-* Or open in [GH pages] ()
+* Or open in [GH pages](https://lavinbrenna.github.io/characterGenerator/)
 
 ## Known Bugs
 
